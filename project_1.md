@@ -1,8 +1,9 @@
 # Ngnix Config
 
 This guide provide the information needed to configure the NGINX config file.
+Here's a sample change
 
-## Table of contents
+## Table of contents 
 
   1. [Introduction](#introduction)
        1. [What is NGINX configuration file](#what-is-nginx-configuration-file)
