@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/docusaurus.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://server-tutorials.netlify.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -42,7 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/eo33/traceroute/tree/gh-pages',
+            'https://github.com/eo33/traceroute/blob/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
