@@ -5,7 +5,6 @@ sidebar_position: 1
 # Ngnix
 
 This guide provide the information needed to configure the NGINX config file.
-Here's a sample change
 
 <!-- Introduction -->
 ## Introduction
